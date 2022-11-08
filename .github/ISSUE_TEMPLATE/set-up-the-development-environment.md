@@ -1,5 +1,5 @@
 ---
-name: User Story
+name: Set up the development environment
 about: This template is for creating user stories
 title: ''
 labels: ''
